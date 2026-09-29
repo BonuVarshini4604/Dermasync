@@ -1,0 +1,6 @@
+{
+  "name": "DermaSync — Clinical Skincare & Dermatological Health",
+  "description": "Clinical-grade dermatology platform featuring interactive face scans, diagnostic matrices, barrier health scoring, ingredient conflict detection, and bio-equivalent dupe matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
